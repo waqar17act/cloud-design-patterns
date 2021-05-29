@@ -11,7 +11,7 @@ This pattern is not suitable when
 
 
 
-##Example 
+## Example 
 We have 2 microservices Product Service & Rating Service.
 
 Product Microservice depends on Rating microservice. When we query product details, it requests rating service to fetch reviews of the product.
